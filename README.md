@@ -3,13 +3,9 @@ Curated list of public domain blogs, software, and more.
 
 ## Contents
   - [Blogs](#blogs)
-  
----
 
 ## Blogs
   - [zen habits](https://zenhabits.net/uncopyright/)
-
----
 
 ## License
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
