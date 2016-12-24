@@ -12,15 +12,18 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Gwenn Seemel](http://www.gwennseemel.com/index.php/copyright/) - French-American artist, painter, portraitist.
 
 ## Blogs
+  - [Brian Gardner](http://briangardner.com/uncopyright/) - There are way too many blogs and websites around that skim the surface of life, and this my attempt at doing it the right way.
   - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - Here to help you transform your life.
   - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those learning to live well with chronic illness.
   - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
+  - [Ryan Boren](https://boren.blog/uncopyright/) - Lead developer of WordPress and a co-conspirator at Automattic.
   - [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new growth experiences.
-  - [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas, concepts and techniques of personal development, mind development, new science, psychology and spirituality and unwrap those from all added fluff, hype or unnecessary dogma to bring you the best tools for your own unique personal development.
+  - [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas, concepts and techniques of personal development, mind development, new science, psychology and spirituality to bring you the best tools for your own unique personal development.
   - [zen habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
   
 ## Other
   - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Free online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
+  - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
 
 ## License
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
