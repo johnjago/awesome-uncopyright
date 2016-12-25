@@ -10,9 +10,12 @@ Curated list of public domain artwork, blogs, software, and more.
   - [David Reed Smith](http://www.davidreedsmith.com/UncopyrightNotice.htm) - Making tatting shuttles and drop spindles, and occasionally writing articles for fun.
   - [DesignerCandies](http://designercandies.net/uncopyright/) - High quality graphic design resources for use in design projects.
   - [Gwenn Seemel](http://www.gwennseemel.com/index.php/copyright/) - French-American artist, painter, portraitist.
+  - [Samuel Killermann](http://www.samuelkillermann.com/uncopyright/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
 
 ## Blogs
+  - [Awesci](http://awesci.com/uncopyright/) - Compendium of awe eliciting and entertaining articles mixed with Science-101s for curious minds to waste time sensibly.
   - [Brian Gardner](http://briangardner.com/uncopyright/) - There are way too many blogs and websites around that skim the surface of life, and this my attempt at doing it the right way.
+  - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - How to live?
   - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - Here to help you transform your life.
   - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those learning to live well with chronic illness.
   - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
