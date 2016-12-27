@@ -4,6 +4,7 @@ Curated list of public domain artwork, blogs, software, and more.
 ## Contents
   - [Art](#art)
   - [Blogs](#blogs)
+  - [Images](#images)
   - [Other](#other)
 
 ## Art
@@ -16,6 +17,7 @@ Curated list of public domain artwork, blogs, software, and more.
 ## Blogs
   - [Awesci](http://awesci.com/uncopyright/) - Compendium of awe eliciting and entertaining articles mixed with Science-101s for curious minds to waste time sensibly.
   - [Brian Gardner](http://briangardner.com/uncopyright/) - There are way too many blogs and websites around that skim the surface of life, and this my attempt at doing it the right way.
+  - [Colin Smith](http://colinsmith.net/uncopyright/) - Follow your curiosity.
   - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - How to live?
   - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - Here to help you transform your life.
   - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those learning to live well with chronic illness.
@@ -23,10 +25,14 @@ Curated list of public domain artwork, blogs, software, and more.
   - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
   - [Referee Mindset](http://refereemindset.com/uncopyright) - Our mission is to help referees develop skills to be the best they can be.
   - [Ryan Boren](https://boren.blog/uncopyright/) - Lead developer of WordPress and a co-conspirator at Automattic.
+  - [Srini Blog](http://sriniblog.com/uncopyright/) - SAP PI, Java and web programming.
   - [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new growth experiences.
   - [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas, concepts and techniques of personal development, mind development, new science, psychology and spirituality to bring you the best tools for your own unique personal development.
   - [zen habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
   
+## Images
+  - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
+
 ## Other
   - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Free online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
   - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
