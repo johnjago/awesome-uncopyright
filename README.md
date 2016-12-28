@@ -21,7 +21,9 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - How to live?
   - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - Here to help you transform your life.
   - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those learning to live well with chronic illness.
-  - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Source of encouragement to stir the spirits of others, and to go first in demonstrating insight, forgiveness, generosity, kindness and love.
+  - [Healthy Enough](http://healthyenough.net/uncopyright/) - Helping you become as fit and healthy as possible while still enjoying all of the things you love.
+  - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - All about one simple concept: Enjoy The Journey.
+  - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Source of encouragement to stir the spirits of others.
   - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
   - [Referee Mindset](http://refereemindset.com/uncopyright) - Our mission is to help referees develop skills to be the best they can be.
   - [Ryan Boren](https://boren.blog/uncopyright/) - Lead developer of WordPress and a co-conspirator at Automattic.
@@ -31,6 +33,7 @@ Curated list of public domain artwork, blogs, software, and more.
   - [zen habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
   
 ## Images
+  - [Suprada Urval Photography](http://www.suprada.com/photoblog/archives/2573) - A means of sharing my photos.
   - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
 ## Other
