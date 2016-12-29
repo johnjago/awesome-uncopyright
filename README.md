@@ -25,14 +25,17 @@ Curated list of public domain artwork, blogs, software, and more.
   - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - All about one simple concept: Enjoy The Journey.
   - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Source of encouragement to stir the spirits of others.
   - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
+  - [Puro compás](http://www.stafforini.com/tango/uncopyright/) - Tango music and dancing.
   - [Referee Mindset](http://refereemindset.com/uncopyright) - Our mission is to help referees develop skills to be the best they can be.
   - [Ryan Boren](https://boren.blog/uncopyright/) - Lead developer of WordPress and a co-conspirator at Automattic.
+  - [Serendipity Journal](https://dugmugg.wordpress.com/uncopyright/) - Sharing in community, we can achieve far more than we ever could on our own.
   - [Srini Blog](http://sriniblog.com/uncopyright/) - SAP PI, Java and web programming.
   - [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new growth experiences.
   - [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas, concepts and techniques of personal development, mind development, new science, psychology and spirituality to bring you the best tools for your own unique personal development.
   - [zen habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
   
 ## Images
+  - [Pixabay](https://pixabay.com/en/service/terms/#usage) - Free images and videos you can use anywhere.
   - [Suprada Urval Photography](http://www.suprada.com/photoblog/archives/2573) - A means of sharing my photos.
   - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
