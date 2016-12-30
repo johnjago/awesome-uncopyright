@@ -16,6 +16,7 @@ Curated list of public domain artwork, blogs, software, and more.
 
 ## Blogs
   - [Awesci](http://awesci.com/uncopyright/) - Compendium of awe eliciting and entertaining articles mixed with Science-101s for curious minds to waste time sensibly.
+  - [Billy Shih](http://www.billyshih.com/uncopyright/) - The blog of a web developer at Full Circle.
   - [Brian Gardner](http://briangardner.com/uncopyright/) - There are way too many blogs and websites around that skim the surface of life, and this my attempt at doing it the right way.
   - [Colin Smith](http://colinsmith.net/uncopyright/) - Follow your curiosity.
   - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - How to live?
@@ -24,6 +25,7 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Healthy Enough](http://healthyenough.net/uncopyright/) - Helping you become as fit and healthy as possible while still enjoying all of the things you love.
   - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - All about one simple concept: Enjoy The Journey.
   - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Source of encouragement to stir the spirits of others.
+  - [Melissa Miko](http://www.melissamiko.com/uncopyright/) - American writer, thinker, and entrepreneur.
   - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
   - [Puro compás](http://www.stafforini.com/tango/uncopyright/) - Tango music and dancing.
   - [Referee Mindset](http://refereemindset.com/uncopyright) - Our mission is to help referees develop skills to be the best they can be.
@@ -31,10 +33,11 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Serendipity Journal](https://dugmugg.wordpress.com/uncopyright/) - Sharing in community, we can achieve far more than we ever could on our own.
   - [Srini Blog](http://sriniblog.com/uncopyright/) - SAP PI, Java and web programming.
   - [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new growth experiences.
-  - [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas, concepts and techniques of personal development, mind development, new science, psychology and spirituality to bring you the best tools for your own unique personal development.
+  - [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas, concepts and techniques of personal development, mind development, new science, psychology and spirituality.
   - [zen habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
   
 ## Images
+  - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Free photos for your website, blog, magazine or anywhere.
   - [Pixabay](https://pixabay.com/en/service/terms/#usage) - Free images and videos you can use anywhere.
   - [Suprada Urval Photography](http://www.suprada.com/photoblog/archives/2573) - A means of sharing my photos.
   - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
