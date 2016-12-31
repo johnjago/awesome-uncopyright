@@ -22,9 +22,11 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - How to live?
   - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - Here to help you transform your life.
   - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those learning to live well with chronic illness.
+  - [gr0wing.com](http://www.gr0wing.com/uncopyright/) - Website dedicated to personal and global change.
   - [Healthy Enough](http://healthyenough.net/uncopyright/) - Helping you become as fit and healthy as possible while still enjoying all of the things you love.
   - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - All about one simple concept: Enjoy The Journey.
   - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Source of encouragement to stir the spirits of others.
+  - [Ian Channing](http://www.ianchanning.com/uncopyright/) - English coder in the Belgian countryside.
   - [Melissa Miko](http://www.melissamiko.com/uncopyright/) - American writer, thinker, and entrepreneur.
   - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
   - [Puro compás](http://www.stafforini.com/tango/uncopyright/) - Tango music and dancing.
@@ -43,6 +45,7 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
 ## Other
+  - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
   - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Free online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
   - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
 
