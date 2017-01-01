@@ -15,9 +15,12 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Samuel Killermann](http://www.samuelkillermann.com/uncopyright/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
 
 ## Blogs
+  - [ARIHERZOG](http://ariherzog.com/) - Digital, political, and minimal.
+  - [Art of Living Slowly](http://www.artoflivingslowly.com/uncopyright) - Meditation and personal transformation.
   - [Awesci](http://awesci.com/uncopyright/) - Compendium of awe eliciting and entertaining articles mixed with Science-101s for curious minds to waste time sensibly.
   - [Billy Shih](http://www.billyshih.com/uncopyright/) - The blog of a web developer at Full Circle.
   - [Brian Gardner](http://briangardner.com/uncopyright/) - There are way too many blogs and websites around that skim the surface of life, and this my attempt at doing it the right way.
+  - [Char Bit](http://charb.it/uncopyright/) - A journey through software development.
   - [Colin Smith](http://colinsmith.net/uncopyright/) - Follow your curiosity.
   - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - How to live?
   - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - Here to help you transform your life.
