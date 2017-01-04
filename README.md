@@ -6,6 +6,7 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Blogs](#blogs)
   - [Images](#images)
   - [Other](#other)
+  - [Software](#software)
 
 ## Art
   - [David Reed Smith](http://www.davidreedsmith.com/UncopyrightNotice.htm) - Making tatting shuttles and drop spindles, and occasionally writing articles for fun.
@@ -51,6 +52,9 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
   - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Free online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
   - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
+  
+## Software
+  - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
 
 ## License
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
