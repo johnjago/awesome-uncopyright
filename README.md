@@ -55,6 +55,7 @@ Curated list of public domain artwork, blogs, software, and more.
   
 ## Software
   - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
+  - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
 
 ## License
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
