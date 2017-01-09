@@ -50,12 +50,14 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
 ## Other
+  - [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
   - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
   - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Free online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
   - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
   
 ## Software
   - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
+  - [web.py](http://webpy.org/) - Simple yet powerful web framework.
   - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
 
 ## License
