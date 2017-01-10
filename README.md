@@ -6,6 +6,7 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Blogs](#blogs)
   - [Images](#images)
   - [Other](#other)
+  - [Resources](#resources)
   - [Software](#software)
 
 ## Art
@@ -54,7 +55,11 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
   - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Free online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
   - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
-  
+
+## Resources
+  - [CC0](https://creativecommons.org/choose/zero/) - Using CC0, you can waive all copyrights and related or neighboring rights that you may have in all jurisdictions worldwide, such as your moral rights (to the extent waivable), your publicity or privacy rights, rights you have protecting against unfair competition, and database rights and rights protecting the extraction, dissemination and reuse of data.
+  - [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
+
 ## Software
   - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
   - [web.py](http://webpy.org/) - Simple yet powerful web framework.
