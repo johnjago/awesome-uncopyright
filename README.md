@@ -1,5 +1,7 @@
 # Awesome Uncopyright [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Curated list of public domain artwork, blogs, software, and more.
+A curated list of public domain artwork, blogs, software, and more.
+
+Be a :star: — dedicate your work to the public domain and [have it featured here](contributing.md).
 
 ## Contents
   - [Art](#art)
@@ -19,7 +21,7 @@ Curated list of public domain artwork, blogs, software, and more.
 ## Blogs
   - [ARIHERZOG](http://ariherzog.com/) - Digital, political, and minimal.
   - [Art of Living Slowly](http://www.artoflivingslowly.com/uncopyright) - Meditation and personal transformation.
-  - [Awesci](http://awesci.com/uncopyright/) - Compendium of awe eliciting and entertaining articles mixed with Science-101s for curious minds to waste time sensibly.
+  - [Awesci](http://awesci.com/uncopyright/) - Awe eliciting and entertaining articles mixed with Science-101s for curious minds to waste time sensibly.
   - [Billy Shih](http://www.billyshih.com/uncopyright/) - The blog of a web developer at Full Circle.
   - [Brian Gardner](http://briangardner.com/uncopyright/) - There are way too many blogs and websites around that skim the surface of life, and this my attempt at doing it the right way.
   - [Char Bit](http://charb.it/uncopyright/) - A journey through software development.
@@ -27,7 +29,7 @@ Curated list of public domain artwork, blogs, software, and more.
   - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - How to live?
   - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - Here to help you transform your life.
   - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those learning to live well with chronic illness.
-  - [gr0wing.com](http://www.gr0wing.com/uncopyright/) - Website dedicated to personal and global change.
+  - [gr0wing.com](http://www.gr0wing.com/uncopyright/) - Personal and global change.
   - [Healthy Enough](http://healthyenough.net/uncopyright/) - Helping you become as fit and healthy as possible while still enjoying all of the things you love.
   - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - All about one simple concept: Enjoy The Journey.
   - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Source of encouragement to stir the spirits of others.
@@ -45,19 +47,20 @@ Curated list of public domain artwork, blogs, software, and more.
   - [zen habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
   
 ## Images
-  - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Free photos for your website, blog, magazine or anywhere.
-  - [Pixabay](https://pixabay.com/en/service/terms/#usage) - Free images and videos you can use anywhere.
+  - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Photos for your website, blog, magazine or anywhere.
+  - [Pixabay](https://pixabay.com/en/service/terms/#usage) - Images and videos you can use anywhere.
+  - [Public Icons](http://publicicons.org/) - Collection of free icons.
   - [Suprada Urval Photography](http://www.suprada.com/photoblog/archives/2573) - A means of sharing my photos.
   - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
 ## Other
   - [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
   - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
-  - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Free online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
+  - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
   - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
 
 ## Resources
-  - [CC0](https://creativecommons.org/choose/zero/) - Using CC0, you can waive all copyrights and related or neighboring rights that you may have in all jurisdictions worldwide, such as your moral rights (to the extent waivable), your publicity or privacy rights, rights you have protecting against unfair competition, and database rights and rights protecting the extraction, dissemination and reuse of data.
+  - [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
   - [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
 
 ## Software
