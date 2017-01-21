@@ -1,7 +1,7 @@
 # Awesome Uncopyright [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of public domain artwork, blogs, software, and more.
+A curated list of public domain artwork, blogs, software, resources, and more.
 
-Be a :star: — dedicate your work to the public domain and [have it featured here](contributing.md).
+Be a :star: — dedicate your work to the public domain and [add it here](contributing.md).
 
 ## Contents
   - [Art](#art)
