@@ -47,7 +47,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [Srini Blog](http://sriniblog.com/uncopyright/) - SAP PI, Java and web programming.
 - [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new growth experiences.
 - [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas, concepts and techniques of personal development, mind development, new science, psychology and spirituality.
-- [zen habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
+- [Zen Habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
 
 ## Images
 - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Photos for your website, blog, magazine or anywhere.
@@ -59,6 +59,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 ## Other
 - [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
 - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
+- [Lively Days](http://livelydays.com/) - Vegan recipes.
 - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
 - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
 
