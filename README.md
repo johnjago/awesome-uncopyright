@@ -46,7 +46,8 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [Simple Tech Tutorials](https://simpletechtutorials.blogspot.com/) - Computer tutorials with a focus on simplicity.
 - [Srini Blog](http://sriniblog.com/uncopyright/) - SAP PI, Java and web programming.
 - [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new growth experiences.
-- [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas, concepts and techniques of personal development, mind development, new science, psychology and spirituality.
+- [UnbelievableYou](http://unbelievableyou.com/uncopyright/) - A blog about you and your spiritual journey.
+- [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas and techniques of personal development, mind development, psychology, and spirituality.
 - [Zen Habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
 
 ## Images
