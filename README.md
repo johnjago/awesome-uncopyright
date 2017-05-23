@@ -7,14 +7,17 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 </p>
 
 ## Contents
+
 - [Art](#art)
 - [Blogs](#blogs)
 - [Images](#images)
 - [Other](#other)
 - [Resources](#resources)
 - [Software](#software)
+- [Talks](#talks)
 
 ## Art
+
 - [David Reed Smith](http://www.davidreedsmith.com/UncopyrightNotice.htm) - Making tatting shuttles and drop spindles, and occasionally writing articles for fun.
 - [DesignerCandies](http://designercandies.net/uncopyright/) - High quality graphic design resources for use in design projects.
 - [Gwenn Seemel](http://www.gwennseemel.com/index.php/copyright/) - French-American artist, painter, portraitist.
@@ -22,6 +25,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [Samuel Killermann](http://www.samuelkillermann.com/uncopyright/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
 
 ## Blogs
+
 - [ARIHERZOG](http://ariherzog.com/) - Digital, political, and minimal.
 - [Art of Living Slowly](http://www.artoflivingslowly.com/uncopyright) - Meditation and personal transformation.
 - [Awesci](http://awesci.com/uncopyright/) - Awe eliciting and entertaining articles mixed with Science-101s for curious minds to waste time sensibly.
@@ -51,6 +55,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [Zen Habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
 
 ## Images
+
 - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Photos for your website, blog, magazine or anywhere.
 - [Pixabay](https://pixabay.com/en/service/terms/#usage) - Images and videos you can use anywhere.
 - [Public Icons](http://publicicons.org/) - Collection of free icons.
@@ -58,25 +63,31 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
 ## Other
+
 - [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
 - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
+- [Kopimi](http://kopimi.com/) - Symbol showing that you want a work to be copied.
 - [Lively Days](http://livelydays.com/) - Vegan recipes.
 - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
 - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
 
 ## Resources
+
 - [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
 - [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
 - [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
 
 ## Software
+
 - [Computerized Operational Department #5](https://www.cod5.org/) - Massive collection of public domain source code, mostly written in C and focused on hardware interaction.
 - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
 - [web.py](http://webpy.org/) - Simple yet powerful web framework.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
 
 ## Talks
+
 - [Laws that choke creativity](https://www.youtube.com/watch?v=7Q25-S7jzgs)
 
 ## License
+
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
