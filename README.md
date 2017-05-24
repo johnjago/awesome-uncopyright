@@ -74,6 +74,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 ## Resources
 
 - [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
+- [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
 - [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
 - [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
 
