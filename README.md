@@ -73,6 +73,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 
 ## Resources
 
+- [Abandoning Copyright: A Blessing for Artists, Art, and Society](http://www.culturelink.org/news/members/2005/members2005-011.html)
 - [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
 - [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
 - [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
