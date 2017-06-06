@@ -83,6 +83,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 ## Software
 
 - [Computerized Operational Department #5](https://www.cod5.org/) - Massive collection of public domain source code, mostly written in C and focused on hardware interaction.
+- [Kakoune](http://kakoune.org/) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
 - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
 - [web.py](http://webpy.org/) - Simple yet powerful web framework.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
