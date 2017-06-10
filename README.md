@@ -78,6 +78,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
 - [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
 - [Opposition to Copyright](https://en.wikipedia.org/wiki/Opposition_to_copyright) - Wikipedia article discussing opposition to copyright.
+- [Placing documents into the public domain](https://cr.yp.to/publicdomain.html)
 - [QuestionCopyright.org](http://questioncopyright.org/) - Nonprofit organization that provides advocacy and education to help cultural producers embrace open distribution.
 - [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
 
