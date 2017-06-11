@@ -8,15 +8,23 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 
 ## Contents
 
-- [Art](#art)
-- [Blogs](#blogs)
-- [Images](#images)
-- [Other](#other)
+- [Things in the public domain](#things-in-the-public-domain)
+  - [Art](#art)
+  - [Blogs](#blogs)
+  - [Images](#images)
+  - [Other](#other)
+  - [Software](#software)
 - [Resources](#resources)
-- [Software](#software)
-- [Talks](#talks)
+  - [Articles](#articles)
+  - [Essays](#essays)
+  - [Licenses](#licenses)
+  - [Organizations](#organizations)
+  - [Other Resources](#other-resources)
+  - [Talks](#talks)
+  
+## Things in the public domain
 
-## Art
+### Art
 
 - [David Reed Smith](http://www.davidreedsmith.com/UncopyrightNotice.htm) - Making tatting shuttles and drop spindles, and occasionally writing articles for fun.
 - [DesignerCandies](http://designercandies.net/uncopyright/) - High quality graphic design resources for use in design projects.
@@ -24,7 +32,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [Michael Beil](http://michaelbeil.com/uncopyright) - Supporting the web. Developing. Playing music.
 - [Samuel Killermann](http://www.samuelkillermann.com/uncopyright/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
 
-## Blogs
+### Blogs
 
 - [ARIHERZOG](http://ariherzog.com/) - Digital, political, and minimal.
 - [Art of Living Slowly](http://www.artoflivingslowly.com/uncopyright) - Meditation and personal transformation.
@@ -54,7 +62,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas and techniques of personal development, mind development, psychology, and spirituality.
 - [Zen Habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
 
-## Images
+### Images
 
 - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Photos for your website, blog, magazine or anywhere.
 - [Pixabay](https://pixabay.com/en/service/terms/#usage) - Images and videos you can use anywhere.
@@ -62,7 +70,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [Suprada Urval Photography](http://www.suprada.com/photoblog/archives/2573) - A means of sharing my photos.
 - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
-## Other
+### Other
 
 - [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
 - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
@@ -71,18 +79,8 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
 - [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
 
-## Resources
 
-- [Abandoning Copyright: A Blessing for Artists, Art, and Society](http://www.culturelink.org/news/members/2005/members2005-011.html)
-- [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
-- [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
-- [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
-- [Opposition to Copyright](https://en.wikipedia.org/wiki/Opposition_to_copyright) - Wikipedia article discussing opposition to copyright.
-- [Placing documents into the public domain](https://cr.yp.to/publicdomain.html)
-- [QuestionCopyright.org](http://questioncopyright.org/) - Nonprofit organization that provides advocacy and education to help cultural producers embrace open distribution.
-- [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
-
-## Software
+### Software
 
 - [Computerized Operational Department #5](https://www.cod5.org/) - Massive collection of public domain source code, mostly written in C and focused on hardware interaction.
 - [Kakoune](http://kakoune.org/) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
@@ -90,7 +88,33 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 - [web.py](http://webpy.org/) - Simple yet powerful web framework.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
 
-## Talks
+## Resources
+
+### Articles
+
+- [Placing documents into the public domain](https://cr.yp.to/publicdomain.html)
+- [Opposition to copyright](https://en.wikipedia.org/wiki/Opposition_to_copyright) - Wikipedia article discussing opposition to copyright.
+
+### Essays
+
+- [Abandoning Copyright: A Blessing for Artists, Art, and Society](http://www.culturelink.org/news/members/2005/members2005-011.html)
+- [Who's Afraid of the Public Domain?](https://stpeter.im/writings/essays/publicdomain.html)
+
+### Licenses
+
+- [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
+- [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
+
+### Organizations
+
+- [QuestionCopyright.org](http://questioncopyright.org/) - Nonprofit organization that provides advocacy and education to help cultural producers embrace open distribution.
+
+### Other Resources
+
+- [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
+- [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
+
+### Talks
 
 - [Laws that choke creativity](https://www.youtube.com/watch?v=7Q25-S7jzgs)
 
