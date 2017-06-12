@@ -8,7 +8,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 
 ## Contents
 
-- [Things in the public domain](#things-in-the-public-domain)
+- [Things in the Public Domain](#things-in-the-public-domain)
   - [Art](#art)
   - [Blogs](#blogs)
   - [Images](#images)
@@ -22,7 +22,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
   - [Other Resources](#other-resources)
   - [Talks](#talks)
   
-## Things in the public domain
+## Things in the Public Domain
 
 ### Art
 
@@ -84,6 +84,7 @@ A curated list of public domain artwork, blogs, software, resources, and more.
 
 - [Computerized Operational Department #5](https://www.cod5.org/) - Massive collection of public domain source code, mostly written in C and focused on hardware interaction.
 - [Kakoune](http://kakoune.org/) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
+- [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework.
 - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
 - [web.py](http://webpy.org/) - Simple yet powerful web framework.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
