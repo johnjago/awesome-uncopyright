@@ -1,10 +1,10 @@
 # Awesome Uncopyright [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of public domain artwork, blogs, software, resources, and more.
+A curated list of works in the public domain.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg">
-</p>
+<a href="http://questioncopyright.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="No copyright symbol" align="right" width="124">
+</a>
 
 ## Contents
 
