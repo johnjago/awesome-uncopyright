@@ -1,12 +1,12 @@
 # Awesome Uncopyright [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
->A curated list of works in the public domain.
-
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="No copyright symbol" align="right" width="100">](http://questioncopyright.org/)
+
+>A curated list of works in the public domain.
 
 ## Contents
 
-- [Things in the Public Domain](#things-in-the-public-domain)
+- [Works](#works)
   - [Art](#art)
   - [Blogs](#blogs)
   - [Images](#images)
@@ -19,8 +19,9 @@
   - [Organizations](#organizations)
   - [Other Resources](#other-resources)
   - [Talks](#talks)
-  
-## Things in the Public Domain
+
+## Works
+> These are in the public domain.
 
 ### Art
 
@@ -88,6 +89,7 @@
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
 
 ## Resources
+>These discuss the public domain but may not be in the public domain.
 
 ### Articles
 
@@ -119,4 +121,4 @@
 
 ## License
 
-![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
