@@ -2,7 +2,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="No copyright symbol" align="right" width="70">](http://questioncopyright.org/)
 
->A curated list of works in the public domain.
+> A curated list of works in the public domain.
 
 ## Contents
 
@@ -19,6 +19,7 @@
   - [Organizations](#organizations)
   - [Other Resources](#other-resources)
   - [Talks](#talks)
+- [License](#license)
 
 ## Works
 > These are in the public domain.
@@ -34,7 +35,6 @@
 ### Blogs
 
 - [ARIHERZOG](http://ariherzog.com/) - Digital, political, and minimal.
-- [Art of Living Slowly](http://www.artoflivingslowly.com/uncopyright) - Meditation and personal transformation.
 - [Awesci](http://awesci.com/uncopyright/) - Awe eliciting and entertaining articles mixed with Science-101s for curious minds to waste time sensibly.
 - [Billy Shih](http://www.billyshih.com/uncopyright/) - The blog of a web developer at Full Circle.
 - [Brian Gardner](http://briangardner.com/uncopyright/) - There are way too many blogs and websites around that skim the surface of life, and this my attempt at doing it the right way.
@@ -54,11 +54,8 @@
 - [Referee Mindset](http://refereemindset.com/uncopyright) - Our mission is to help referees develop skills to be the best they can be.
 - [Ryan Boren](https://boren.blog/uncopyright/) - Lead developer of WordPress and a co-conspirator at Automattic.
 - [Serendipity Journal](https://dugmugg.wordpress.com/uncopyright/) - Sharing in community, we can achieve far more than we ever could on our own.
-- [Simple Tech Tutorials](https://simpletechtutorials.blogspot.com/) - Computer tutorials with a focus on simplicity.
-- [Srini Blog](http://sriniblog.com/uncopyright/) - SAP PI, Java and web programming.
+- [Simple Tech Tutorials](https://simpletechtutorials.blogspot.com/p/uncopyright.html) - Computer tutorials with a focus on simplicity.
 - [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new growth experiences.
-- [UnbelievableYou](http://unbelievableyou.com/uncopyright/) - A blog about you and your spiritual journey.
-- [Unwrap Your Mind](http://www.unwrapyourmind.com/about/uncopyright/) - Combining the best ideas and techniques of personal development, mind development, psychology, and spirituality.
 - [Zen Habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
 
 ### Images
@@ -66,7 +63,6 @@
 - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Photos for your website, blog, magazine or anywhere.
 - [Pixabay](https://pixabay.com/en/service/terms/#usage) - Images and videos you can use anywhere.
 - [Public Icons](http://publicicons.org/) - Collection of free icons.
-- [Suprada Urval Photography](http://www.suprada.com/photoblog/archives/2573) - A means of sharing my photos.
 - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
 ### Other
@@ -76,8 +72,6 @@
 - [Kopimi](http://kopimi.com/) - Symbol showing that you want a work to be copied.
 - [Lively Days](http://livelydays.com/) - Vegan recipes.
 - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
-- [uncopyright.me](http://uncopyright.me/) - The story of creatives who share their work – for free.
-
 
 ### Software
 
@@ -89,12 +83,12 @@
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
 
 ## Resources
->These discuss the public domain but may not be in the public domain.
+> These discuss the public domain but may not be in the public domain.
 
 ### Articles
 
-- [Placing documents into the public domain](https://cr.yp.to/publicdomain.html)
-- [Opposition to copyright](https://en.wikipedia.org/wiki/Opposition_to_copyright) - Wikipedia article discussing opposition to copyright.
+- [Placing Documents into the Public Domain](https://cr.yp.to/publicdomain.html)
+- [Opposition to Copyright](https://en.wikipedia.org/wiki/Opposition_to_copyright) - Wikipedia article discussing opposition to copyright.
 
 ### Essays
 
@@ -117,7 +111,7 @@
 
 ### Talks
 
-- [Laws that choke creativity](https://www.youtube.com/watch?v=7Q25-S7jzgs)
+- [Laws That Choke Creativity](https://www.youtube.com/watch?v=7Q25-S7jzgs)
 
 ## License
 
