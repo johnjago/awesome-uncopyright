@@ -60,9 +60,10 @@
 
 ### Images
 
-- [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Photos for your website, blog, magazine or anywhere.
-- [Pixabay](https://pixabay.com/en/service/terms/#usage) - Images and videos you can use anywhere.
+- [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Galleries of photos, each with their own theme.
+- [Pixabay](https://pixabay.com/en/service/terms/#usage) - Stock images and videos.
 - [Public Icons](http://publicicons.org/) - Collection of free icons.
+- [StockSnap](https://stocksnap.io/) - Stock photography without any copyright restrictions.
 - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
 ### Other
