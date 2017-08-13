@@ -13,8 +13,7 @@
 - [Images](#images)
 - [Licenses](#licenses)
 - [Organizations](#organizations)
-- [Other](#other)
-- [Resources](#other-resources)
+- [Resources](#resources)
 - [Software](#software)
 - [Talks](#talks)
 - [License](#license)
@@ -48,6 +47,7 @@
 - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - Posts from a former world traveler.
 - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Kind words for a kinder world.
 - [Ian Channing](http://www.ianchanning.com/uncopyright/) - English coder living in the Belgian countryside.
+- [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
 - [Melissa Miko](http://www.melissamiko.com/uncopyright/) - American writer, thinker, and entrepreneur.
 - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
 - [Puro compás](http://www.stafforini.com/tango/uncopyright/) - Tango music and dancing.
@@ -58,6 +58,11 @@
 - [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new experiences.
 - [Zen Habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
 
+## Books
+
+- [LibriVox](https://librivox.org/) - Audiobooks read by volunteers.
+- [Project Gutenberg](https://www.gutenberg.org/) - Thousands of ebooks whose copyright has expired in a variety of formats.
+
 ## Essays
 
 - [Abandoning Copyright: A Blessing for Artists, Art, and Society](http://www.culturelink.org/news/members/2005/members2005-011.html) - Discussion of how concentration of power is undesirable in every industry but particularly detrimental in the cultural field.
@@ -66,6 +71,7 @@
 ## Images
 
 - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Galleries of photos, each with their own theme.
+- [Openclipart](https://openclipart.org/share) - High quality, easy to use clip art.
 - [Pixabay](https://pixabay.com/en/service/faq/) - Stock images and videos.
 - [Public Icons](http://publicicons.org/) - Collection of free icons.
 - [StockSnap](https://stocksnap.io/license) - Stock photography without any copyright restrictions.
@@ -80,18 +86,14 @@
 
 - [QuestionCopyright.org](http://questioncopyright.org/) - Nonprofit organization that provides advocacy and education to help cultural producers embrace open distribution.
 
-## Other
-
-- [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
-- [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
-- [Kopimi](http://kopimi.com/) - Symbol showing that you want a work to be copied.
-- [Lively Days](http://livelydays.com/) - Vegan recipes.
-- [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
-
 ## Resources
 
 - [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
 - [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
+- [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
+- [Kopimi](http://kopimi.com/) - Symbol showing that you want a work to be copied.
+- [Lively Days](http://livelydays.com/) - Vegan recipes.
+- [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
 
 ## Software
 
