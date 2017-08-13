@@ -6,25 +6,20 @@
 
 ## Contents
 
-- [Works](#works)
-  - [Art](#art)
-  - [Blogs](#blogs)
-  - [Images](#images)
-  - [Other](#other)
-  - [Software](#software)
-- [Resources](#resources)
-  - [Articles](#articles)
-  - [Essays](#essays)
-  - [Licenses](#licenses)
-  - [Organizations](#organizations)
-  - [Other Resources](#other-resources)
-  - [Talks](#talks)
+- [Art](#art)
+- [Articles](#articles)
+- [Blogs](#blogs)
+- [Essays](#essays)
+- [Images](#images)
+- [Licenses](#licenses)
+- [Organizations](#organizations)
+- [Other](#other)
+- [Resources](#other-resources)
+- [Software](#software)
+- [Talks](#talks)
 - [License](#license)
 
-## Works
-> These are in the public domain.
-
-### Art
+## Art
 
 - [David Reed Smith](http://www.davidreedsmith.com/UncopyrightNotice.htm) - Making tatting shuttles and drop spindles, and occasionally writing articles for fun.
 - [DesignerCandies](http://designercandies.net/uncopyright/) - High quality graphic design resources for use in design projects.
@@ -32,41 +27,60 @@
 - [Michael Beil](http://michaelbeil.com/uncopyright) - Supporting the web. Developing. Playing music.
 - [Samuel Killermann](http://www.samuelkillermann.com/uncopyright/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
 
-### Blogs
+## Articles
 
-- [ARIHERZOG](http://ariherzog.com/) - Digital, political, and minimal.
-- [Awesci](http://awesci.com/uncopyright/) - Awe eliciting and entertaining articles mixed with Science-101s for curious minds to waste time sensibly.
-- [Billy Shih](http://www.billyshih.com/uncopyright/) - The blog of a web developer at Full Circle.
-- [Brian Gardner](http://briangardner.com/uncopyright/) - There are way too many blogs and websites around that skim the surface of life, and this my attempt at doing it the right way.
-- [Char Bit](http://charb.it/uncopyright/) - A journey through software development.
+- [Placing Documents into the Public Domain](https://cr.yp.to/publicdomain.html) - Legal details of this process.
+- [Opposition to Copyright](https://en.wikipedia.org/wiki/Opposition_to_copyright) - Wikipedia article discussing opposition to copyright.
+
+## Blogs
+
+- [ARIHERZOG](http://ariherzog.com/) - Posts on digital and political topics, as well as minimalism.
+- [Awesci](http://awesci.com/uncopyright/) - Entertaining articles mixed with scientific information.
+- [Billy Shih](http://www.billyshih.com/uncopyright/) - Blog of a web developer at Full Circle.
+- [Brian Gardner](http://briangardner.com/uncopyright/) - Entrepreneur that helps people build their digital businesses.
+- [Char Bit](http://charb.it/uncopyright/) - Writings about JavaScript from a full stack developer with 20 years of experience.
 - [Colin Smith](http://colinsmith.net/uncopyright/) - Follow your curiosity.
-- [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - How to live?
-- [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - Here to help you transform your life.
+- [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - Answering the question "How to live?" through essays on philosophy and life.
+- [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - How to transform your life via personal growth and progress.
 - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those learning to live well with chronic illness.
 - [gr0wing.com](http://www.gr0wing.com/uncopyright/) - Personal and global change.
-- [Healthy Enough](http://healthyenough.net/uncopyright/) - Helping you become as fit and healthy as possible while still enjoying all of the things you love.
-- [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - All about one simple concept: Enjoy The Journey.
-- [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Source of encouragement to stir the spirits of others.
-- [Ian Channing](http://www.ianchanning.com/uncopyright/) - English coder in the Belgian countryside.
+- [Healthy Enough](http://healthyenough.net/uncopyright/) - Helping you become as fit and healthy as possible.
+- [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - Posts from a former world traveler.
+- [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Kind words for a kinder world.
+- [Ian Channing](http://www.ianchanning.com/uncopyright/) - English coder living in the Belgian countryside.
 - [Melissa Miko](http://www.melissamiko.com/uncopyright/) - American writer, thinker, and entrepreneur.
 - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
 - [Puro compás](http://www.stafforini.com/tango/uncopyright/) - Tango music and dancing.
-- [Referee Mindset](http://refereemindset.com/uncopyright) - Our mission is to help referees develop skills to be the best they can be.
-- [Ryan Boren](https://boren.blog/uncopyright/) - Lead developer of WordPress and a co-conspirator at Automattic.
-- [Serendipity Journal](https://dugmugg.wordpress.com/uncopyright/) - Sharing in community, we can achieve far more than we ever could on our own.
+- [Referee Mindset](http://refereemindset.com/uncopyright) - Helping referees develop skills to be the best they can be.
+- [Ryan Boren](https://boren.blog/uncopyright/) - Lead developer of WordPress at Automattic.
+- [Serendipity Journal](https://dugmugg.wordpress.com/uncopyright/) - Journal of experiences with growth and faith from a Christian perspective.
 - [Simple Tech Tutorials](https://simpletechtutorials.blogspot.com/p/uncopyright.html) - Computer tutorials with a focus on simplicity.
-- [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new growth experiences.
+- [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new experiences.
 - [Zen Habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
 
-### Images
+## Essays
+
+- [Abandoning Copyright: A Blessing for Artists, Art, and Society](http://www.culturelink.org/news/members/2005/members2005-011.html) - Discussion of how concentration of power is undesirable in every industry but particularly detrimental in the cultural field.
+- [Who's Afraid of the Public Domain?](https://stpeter.im/writings/essays/publicdomain.html) - Breaking down five common assumptions about creative individuals.
+
+## Images
 
 - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Galleries of photos, each with their own theme.
-- [Pixabay](https://pixabay.com/en/service/terms/#usage) - Stock images and videos.
+- [Pixabay](https://pixabay.com/en/service/faq/) - Stock images and videos.
 - [Public Icons](http://publicicons.org/) - Collection of free icons.
-- [StockSnap](https://stocksnap.io/) - Stock photography without any copyright restrictions.
+- [StockSnap](https://stocksnap.io/license) - Stock photography without any copyright restrictions.
 - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
-### Other
+## Licenses
+
+- [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
+- [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
+
+## Organizations
+
+- [QuestionCopyright.org](http://questioncopyright.org/) - Nonprofit organization that provides advocacy and education to help cultural producers embrace open distribution.
+
+## Other
 
 - [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
 - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
@@ -74,45 +88,23 @@
 - [Lively Days](http://livelydays.com/) - Vegan recipes.
 - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
 
-### Software
+## Resources
 
-- [Computerized Operational Department #5](https://www.cod5.org/) - Massive collection of public domain source code, mostly written in C and focused on hardware interaction.
-- [Kakoune](http://kakoune.org/) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
+- [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
+- [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
+
+## Software
+
+- [Public Domain Software](https://public-domain.software/) - Massive collection of public domain source code, mostly written in C and focused on hardware interaction.
+- [Kakoune](https://github.com/mawww/kakoune/blob/master/UNLICENSE) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
 - [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework.
 - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
 - [web.py](http://webpy.org/) - Simple yet powerful web framework.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
 
-## Resources
-> These discuss the public domain but may not be in the public domain.
+## Talks
 
-### Articles
-
-- [Placing Documents into the Public Domain](https://cr.yp.to/publicdomain.html)
-- [Opposition to Copyright](https://en.wikipedia.org/wiki/Opposition_to_copyright) - Wikipedia article discussing opposition to copyright.
-
-### Essays
-
-- [Abandoning Copyright: A Blessing for Artists, Art, and Society](http://www.culturelink.org/news/members/2005/members2005-011.html)
-- [Who's Afraid of the Public Domain?](https://stpeter.im/writings/essays/publicdomain.html)
-
-### Licenses
-
-- [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
-- [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
-
-### Organizations
-
-- [QuestionCopyright.org](http://questioncopyright.org/) - Nonprofit organization that provides advocacy and education to help cultural producers embrace open distribution.
-
-### Other Resources
-
-- [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
-- [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
-
-### Talks
-
-- [Laws That Choke Creativity](https://www.youtube.com/watch?v=7Q25-S7jzgs)
+- [Laws That Choke Creativity](https://www.youtube.com/watch?v=7Q25-S7jzgs) - Lawrence Lessig presents an argument for reviving our creative culture.
 
 ## License
 
