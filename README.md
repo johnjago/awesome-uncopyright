@@ -20,6 +20,7 @@
 
 ## Art
 
+- [#NEWPALMYRA](http://www.newpalmyra.org/) - Reconstruction of the ancient Palmyra city in virtual space.
 - [David Reed Smith](http://www.davidreedsmith.com/UncopyrightNotice.htm) - Making tatting shuttles and drop spindles, and occasionally writing articles for fun.
 - [DesignerCandies](http://designercandies.net/uncopyright/) - High quality graphic design resources for use in design projects.
 - [Gwenn Seemel](http://www.gwennseemel.com/index.php/copyright/) - French-American artist, painter, portraitist.
@@ -39,9 +40,10 @@
 - [Brian Gardner](http://briangardner.com/uncopyright/) - Entrepreneur that helps people build their digital businesses.
 - [Char Bit](http://charb.it/uncopyright/) - Writings about JavaScript from a full stack developer with 20 years of experience.
 - [Colin Smith](http://colinsmith.net/uncopyright/) - Follow your curiosity.
+- [Eclipsophile](http://eclipsophile.com/) - All about solar eclipses.
 - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - Answering the question "How to live?" through essays on philosophy and life.
 - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - How to transform your life via personal growth and progress.
-- [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those learning to live well with chronic illness.
+- [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those with chronic illness.
 - [gr0wing.com](http://www.gr0wing.com/uncopyright/) - Personal and global change.
 - [Healthy Enough](http://healthyenough.net/uncopyright/) - Helping you become as fit and healthy as possible.
 - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - Posts from a former world traveler.
@@ -55,7 +57,7 @@
 - [Ryan Boren](https://boren.blog/uncopyright/) - Lead developer of WordPress at Automattic.
 - [Serendipity Journal](https://dugmugg.wordpress.com/uncopyright/) - Journal of experiences with growth and faith from a Christian perspective.
 - [Simple Tech Tutorials](https://simpletechtutorials.blogspot.com/p/uncopyright.html) - Computer tutorials with a focus on simplicity.
-- [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - Studying what it means to grow and how we can deliberately invite, process, and integrate new experiences.
+- [Steve Pavlina](http://www.stevepavlina.com/uncopyright-notice/) - How we can deliberately invite, process, and integrate new experiences.
 - [Zen Habits](https://zenhabits.net/uncopyright/) - Finding simplicity and mindfulness in the daily chaos of our lives.
 
 ## Books
@@ -97,9 +99,10 @@
 
 ## Software
 
-- [Public Domain Software](https://public-domain.software/) - Massive collection of public domain source code, mostly written in C and focused on hardware interaction.
+- [CanvasPaint](http://sigilmaster.com/) - Clone of Microsoft Paint in HTML, CSS, and JavaScript.
 - [Kakoune](https://github.com/mawww/kakoune/blob/master/UNLICENSE) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
 - [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework.
+- [Public Domain Software](https://public-domain.software/) - Collection of public domain source code, mostly in C and focused on hardware interaction.
 - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
 - [web.py](http://webpy.org/) - Simple yet powerful web framework.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
