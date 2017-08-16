@@ -9,6 +9,7 @@
 - [Art](#art)
 - [Articles](#articles)
 - [Blogs](#blogs)
+- [Books](#books)
 - [Essays](#essays)
 - [Images](#images)
 - [Licenses](#licenses)
@@ -31,6 +32,7 @@
 
 - [Placing Documents into the Public Domain](https://cr.yp.to/publicdomain.html) - Legal details of this process.
 - [Opposition to Copyright](https://en.wikipedia.org/wiki/Opposition_to_copyright) - Wikipedia article discussing opposition to copyright.
+- [Using CC0 for Public Domain Software](https://creativecommons.org/2011/04/15/using-cc0-for-public-domain-software/) - Drawbacks of using CC0 to license computer programs.
 
 ## Blogs
 
@@ -62,6 +64,7 @@
 
 ## Books
 
+- [Cost of Freedom](http://costoffreedom.cc/) - On the dream for a free culture.
 - [LibriVox](https://librivox.org/) - Audiobooks read by volunteers.
 - [Project Gutenberg](https://www.gutenberg.org/) - Thousands of ebooks whose copyright has expired in a variety of formats.
 
@@ -73,6 +76,7 @@
 ## Images
 
 - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Galleries of photos, each with their own theme.
+- [LibreStock](http://librestock.com/) - Search all public domain stock photo websites at once.
 - [Openclipart](https://openclipart.org/share) - High quality, easy to use clip art.
 - [Pixabay](https://pixabay.com/en/service/faq/) - Stock images and videos.
 - [Public Icons](http://publicicons.org/) - Collection of free icons.
