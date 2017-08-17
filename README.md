@@ -14,6 +14,7 @@
 - [Images](#images)
 - [Licenses](#licenses)
 - [Organizations](#organizations)
+- [Related](#related)
 - [Resources](#resources)
 - [Software](#software)
 - [Talks](#talks)
@@ -85,17 +86,23 @@
 
 ## Licenses
 
-- [CC0](https://creativecommons.org/choose/zero/) - Creative Commons page for the public domain.
+- [CC0 1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/) - Full text of the license.
 - [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
 
 ## Organizations
 
 - [QuestionCopyright.org](http://questioncopyright.org/) - Nonprofit organization that provides advocacy and education to help cultural producers embrace open distribution.
 
+## Related
+
+- [Creative Commons](https://creativecommons.org/) - Organization devoted to expanding the range of creative works available for others to build upon legally and to share.
+- [Open Knowledge International](https://okfn.org/) -  Organization whose mission is for everyone to have access to key information and the ability to use it freely.
+
 ## Resources
 
 - [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
 - [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
+- [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) - About the CC0 public domain dedication.
 - [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
 - [Kopimi](http://kopimi.com/) - Symbol showing that you want a work to be copied.
 - [Lively Days](http://livelydays.com/) - Vegan recipes.
