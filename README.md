@@ -93,6 +93,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 
 ## Organizations
 
+- [IndieWeb](https://indieweb.org/IndieWebCamp:Copyrights) - People-focused alternative to the "corporate web", movement that provides advocacy and education to domain owners.
 - [QuestionCopyright.org](http://questioncopyright.org/) - Nonprofit organization that provides advocacy and education to help cultural producers embrace open distribution.
 
 ## Related
