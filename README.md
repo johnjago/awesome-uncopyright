@@ -27,6 +27,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [#NEWPALMYRA](http://www.newpalmyra.org/) - Reconstruction of the ancient Palmyra city in virtual space.
 - [David Reed Smith](http://www.davidreedsmith.com/UncopyrightNotice.htm) - Making tatting shuttles and drop spindles, and occasionally writing articles for fun.
 - [DesignerCandies](http://designercandies.net/uncopyright/) - High quality graphic design resources for use in design projects.
+- [Every Shirt Is Political](https://everyshirtispolitical.com/) - Shirts that are ethically made, hand-printed, and pay what you can priced.
 - [Gwenn Seemel](http://www.gwennseemel.com/index.php/copyright/) - French-American artist, painter, portraitist.
 - [Michael Beil](http://michaelbeil.com/uncopyright) - Supporting the web. Developing. Playing music.
 - [Samuel Killermann](http://www.samuelkillermann.com/uncopyright/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
