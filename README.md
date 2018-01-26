@@ -50,6 +50,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - Answering the question "How to live?" through essays on philosophy and life.
 - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - How to transform your life via personal growth and progress.
 - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those with chronic illness.
+- [Go Beyond](http://go-beyond.org/) - Blog without a tagline.
 - [gr0wing.com](http://www.gr0wing.com/uncopyright/) - Personal and global change.
 - [Healthy Enough](http://healthyenough.net/uncopyright/) - Helping you become as fit and healthy as possible.
 - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - Posts from a former world traveler.
