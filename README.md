@@ -45,7 +45,6 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Billy Shih](http://www.billyshih.com/uncopyright/) - Blog of a web developer at Full Circle.
 - [Brian Gardner](http://briangardner.com/uncopyright/) - Entrepreneur that helps people build their digital businesses.
 - [Char Bit](http://charb.it/uncopyright/) - Writings about JavaScript from a full stack developer with 20 years of experience.
-- [Colin Smith](http://colinsmith.net/uncopyright/) - Follow your curiosity.
 - [Eclipsophile](http://eclipsophile.com/) - All about solar eclipses.
 - [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - Answering the question "How to live?" through essays on philosophy and life.
 - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - How to transform your life via personal growth and progress.
