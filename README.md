@@ -51,7 +51,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those with chronic illness.
 - [Go Beyond](http://go-beyond.org/) - Blog without a tagline.
 - [gr0wing.com](http://www.gr0wing.com/uncopyright/) - Personal and global change.
-- [Healthy Enough](http://healthyenough.net/uncopyright/) - Helping you become as fit and healthy as possible.
+- [Healthy Enough](http://healthyenough.net/) - Helping you become as fit and healthy as possible.
 - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - Posts from a former world traveler.
 - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Kind words for a kinder world.
 - [Ian Channing](http://www.ianchanning.com/uncopyright/) - English coder living in the Belgian countryside.
