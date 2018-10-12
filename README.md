@@ -71,6 +71,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Cost of Freedom](http://costoffreedom.cc/) - On the dream for a free culture.
 - [LibriVox](https://librivox.org/) - Audiobooks read by volunteers.
 - [Project Gutenberg](https://www.gutenberg.org/) - Thousands of ebooks whose copyright has expired in a variety of formats.
+- [Standard Ebooks](https://standardebooks.org/) - Hundreds of classics, beautifully formatted and typeset.
 
 ## Essays
 
