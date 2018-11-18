@@ -76,6 +76,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 ## Essays
 
 - [Abandoning Copyright: A Blessing for Artists, Art, and Society](http://www.culturelink.org/news/members/2005/members2005-011.html) - Discussion of how concentration of power is undesirable in every industry but particularly detrimental in the cultural field.
+- [The Surprising History of Copyright and The Promise of a Post-Copyright World](https://questioncopyright.org/promise)
 - [Who's Afraid of the Public Domain?](https://stpeter.im/writings/essays/publicdomain.html) - Breaking down five common assumptions about creative individuals.
 
 ## Images
