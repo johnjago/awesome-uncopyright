@@ -37,6 +37,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Placing Documents into the Public Domain](https://cr.yp.to/publicdomain.html) - Legal details of this process.
 - [Opposition to Copyright](https://en.wikipedia.org/wiki/Opposition_to_copyright) - Wikipedia article discussing opposition to copyright.
 - [Using CC0 for Public Domain Software](https://creativecommons.org/2011/04/15/using-cc0-for-public-domain-software/) - Drawbacks of using CC0 to license computer programs.
+- [Why I Release Things into the Public Domain](https://alexcabal.com/why-i-release-things-into-the-public-domain) - Brief history of copyright law and how it has evolved to harm society instead of help it.
 
 ## Blogs
 
