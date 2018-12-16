@@ -30,7 +30,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Every Shirt Is Political](https://everyshirtispolitical.com/) - Shirts that are ethically made, hand-printed, and pay what you can priced.
 - [Gwenn Seemel](http://www.gwennseemel.com/index.php/copyright/) - French-American artist, painter, portraitist.
 - [Michael Beil](http://michaelbeil.com/uncopyright) - Supporting the web. Developing. Playing music.
-- [Samuel Killermann](http://www.samuelkillermann.com/uncopyright/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
+- [Samuel Killermann](https://www.samuelkillermann.com/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
 
 ## Articles
 
@@ -44,10 +44,8 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [ARIHERZOG](http://ariherzog.com/) - Posts on digital and political topics, as well as minimalism.
 - [Awesci](http://awesci.com/uncopyright/) - Entertaining articles mixed with scientific information.
 - [Billy Shih](http://www.billyshih.com/uncopyright/) - Blog of a web developer at Full Circle.
-- [Brian Gardner](http://briangardner.com/uncopyright/) - Entrepreneur that helps people build their digital businesses.
 - [Char Bit](http://charb.it/uncopyright/) - Writings about JavaScript from a full stack developer with 20 years of experience.
 - [Eclipsophile](http://eclipsophile.com/) - All about solar eclipses.
-- [Emanuele Faja](http://emanuelefaja.com/uncopyright/) - Answering the question "How to live?" through essays on philosophy and life.
 - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) - How to transform your life via personal growth and progress.
 - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - Creating a community of compassion, understanding, and healing for those with chronic illness.
 - [Go Beyond](http://go-beyond.org/) - Blog without a tagline.
@@ -55,7 +53,6 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Healthy Enough](http://healthyenough.net/) - Helping you become as fit and healthy as possible.
 - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - Posts from a former world traveler.
 - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - Kind words for a kinder world.
-- [Ian Channing](http://www.ianchanning.com/uncopyright/) - English coder living in the Belgian countryside.
 - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) - Personal website of Jay Tarlecki.
 - [Melissa Miko](http://www.melissamiko.com/uncopyright/) - American writer, thinker, and entrepreneur.
 - [mnmlist](http://mnmlist.com/uncopyright/) - Less is the answer.
@@ -112,7 +109,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) - About the CC0 public domain dedication.
 - [Kopimi](http://kopimi.com/) - Symbol showing that you want a work to be copied.
 - [Lively Days](http://livelydays.com/) - Vegan recipes.
-- [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
+- [The Safe Zone Project](https://thesafezoneproject.com/help/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
 - [Uncopyright: All Rights Released](http://uncopyright.org/) - Hub for the uncopyright movement, with lists of works, questions, answers, and other information.
 
 ## Software
@@ -120,10 +117,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [CanvasPaint](http://sigilmaster.com/) - Clone of Microsoft Paint in HTML, CSS, and JavaScript.
 - [Kakoune](https://github.com/mawww/kakoune/blob/master/UNLICENSE) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
 - [Luapower](https://luapower.com/) - Deploying and sharing Lua modules with a unique philosophy.
-- [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework.
-- [Public Domain Software](https://public-domain.software/) - Collection of public domain source code, mostly in C and focused on hardware interaction.
 - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
-- [web.py](http://webpy.org/) - Simple yet powerful web framework.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
 
 ## Talks
