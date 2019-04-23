@@ -2,6 +2,8 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="No copyright symbol" align="right" width="155">](http://questioncopyright.org/)
 
+**Looking for a new maintainer! [Let me know](https://github.com/johnjago/awesome-uncopyright/issues/8) if you would like to take ownership of this list.**
+
 A curated list of works in the public domain.
 
 Works in the public domain have no copyright restrictions. This can be the result of intellectual property rights expiring or being forfeited. In the case of the latter, authors have used the term *uncopyright* to describe their act of relinquishing copyright.
