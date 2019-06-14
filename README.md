@@ -33,6 +33,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [FreeMusicArchive: CC0 search](http://freemusicarchive.org/search/?adv=1&quicksearch=&search-genre=Genres&duration_from=&duration_to=&music-filter-public-domain=1) - Many CC0 songs.
 - [Freesound: CC0 search](https://freesound.org/search/?g=1&q=&f=%20license:%22Creative+Commons+0%22) - Thousands of CC0 sound effects and recordings.
 - [Gwenn Seemel](http://www.gwennseemel.com/index.php/copyright/) - French-American artist, painter, portraitist.
+- [HDRI Haven](https://hdrihaven.com/) - High-resolution HDR panoramas under CC0.
 - [Kenney](https://www.kenney.nl/assets) - High-quality game art under CC0.
 - [Michael Beil](http://michaelbeil.com/uncopyright) - Supporting the web. Developing. Playing music.
 - [Martin Vorel](https://libreshot.com/) - Photographer releasing his very high quality photos under CC0.
