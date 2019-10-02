@@ -97,7 +97,6 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [LibreStock](http://librestock.com/) - Search all public domain stock photo websites at once.
 - [Openclipart](https://openclipart.org/share) - High quality, easy to use clip art.
 - [Pixabay](https://pixabay.com/en/service/faq/) - Stock images and videos.
-- [Public Icons](http://publicicons.org/) - Collection of free icons.
 - [SpaceX media](https://www.spacex.com/media) - High-quality photos related to space exploration taken by SpaceX, released under CC0.
 - [StockSnap](https://stocksnap.io/license) - Stock photography without any copyright restrictions.
 - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
