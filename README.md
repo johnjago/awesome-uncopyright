@@ -93,22 +93,27 @@ Works in the public domain have no copyright restrictions. This can be the resul
 ## Images
 
 - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Galleries of photos, each with their own theme.
+- [Foodiesfeed](https://www.foodiesfeed.com/license/) - A place to upload and find images of food without any copyright restriction.
 - [Internet Archive: PD search](https://archive.org/search.php?query=possible-copyright-status%3A%28NOT_IN_COPYRIGHT%29%20OR%20licenseurl%3A%28%22http%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2F1.0%2F%22%29%20OR%20licenseurl%3A%28%22https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F%22%29) - A huge amount of PD works.
 - [LibreStock](http://librestock.com/) - Search all public domain stock photo websites at once.
+- [MyStockPhotos](https://mystock.themeisle.com/license/) - A collection of images dedicated to the public domain trough CC0.
+- [NegativeSpace](https://negativespace.co/license/) - A repository of CC0 images.
 - [Openclipart](https://openclipart.org/share) - High quality, easy to use clip art.
-- [Pixabay](https://pixabay.com/en/service/faq/) - Stock images and videos.
+- Old images on [Pixabay](https://web.archive.org/web/20190108204845/https://pixabay.com/en/service/terms/) - **New images on Pixabay are [not in the public domain](https://opengameart.org/forumtopic/warning-pixabay-has-changed-the-license-not-compatible-with-cc-or-gpl-anymore)**, as they are released under the [Pixabay License](https://pixabay.com/service/license/) (among other things, [incompatible with the GPL](https://make.wordpress.org/themes/2019/01/13/pixabay-images-are-not-allowed/)). Pixabay switched to the new license [in 2019](https://pixabay.com/forum/official-pixabay-news-2/the-pixabay-license-7823/). Prior to that change, Pixabay used the [CC0 waiver](https://web.archive.org/web/20190108204845/https://pixabay.com/en/service/terms/). Therefore, old images are [still in the public domain](https://pixabay.com/it/forum/official-pixabay-news-2/the-pixabay-license-7823/?pagi=4), despite being [misleadingly tagged](https://pixabay.com/it/forum/official-pixabay-news-2/the-pixabay-license-7823/?pagi=4) with the Pixabay License. Before using an image, check what the state of the [terms of service](https://pixabay.com/service/) was at that point in time.
 - [Public Icons](https://publicicons.lllllllllllllllll.com/) - Collection of free icons.
-- [SpaceX media](https://www.spacex.com/media) - High-quality photos related to space exploration taken by SpaceX, released under CC0.
-- [StockSnap](https://stocksnap.io/license) - Stock photography without any copyright restrictions.
-- [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
-- [Wikimedia Commons: PD search](https://commons.wikimedia.org/w/index.php?search=filetype%3Aimage+incategory%3A%22cc-zero%7CPD-user%7CCC-PD-Mark%7CPD-Art+%28PD-old%29%7CPD-Art+%28PD-old-100%29%7CPD-Art+%28PD-old+default%29%7CPD-Art+%28PD-old-100-1923%29%7CPD-Art+%28PD-old-70-1923%29%7CLibrary+of+Congress-no+known+copyright+restrictions%7Cpublic+domain%22&title=Special%3ASearch&go=Go) - Millions of PD media (images, videos, sounds, ...).
+- [PxHere](https://pxhere.com/it/license) - To find and upload CC0 images.
 - [Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) - Rijksmuseum digitised and made available public domain works from several artists including Rembrandt, Vermeer, and others.
+- [Skitterphoto](https://skitterphoto.com/license) - A place to upload and find CC0 images.
+- [SpaceX media](https://www.spacex.com/media) - SpaceX media **no longer** lists its images as being in the public domain. Even on [Flickr](https://web.archive.org/web/20170412063800/https://www.flickr.com/photos/spacex/16787988882/), it uses a CC-BY-NC license. However, old images (from [here](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) to [here](http://web.archive.org/web/20191122175115/https://www.spacex.com/media)) had indeed been placed into the public domain and have no copyright restriction (including some images on [Flickr](https://web.archive.org/web/20170412063800/https://www.flickr.com/photos/spacex/16787988882/)).
+- [StockSnap](https://stocksnap.io/license) - Stock photography without any copyright restrictions.
+- Old images on [Unsplash](https://unsplash.com/). Unsplash **no longer** uses CC0, so new images are not in the public domain (but all images released before the license change still are).
+- [Wikimedia Commons: PD search](https://commons.wikimedia.org/w/index.php?search=filetype%3Aimage+incategory%3A%22cc-zero%7CPD-user%7CCC-PD-Mark%7CPD-Art+%28PD-old%29%7CPD-Art+%28PD-old-100%29%7CPD-Art+%28PD-old+default%29%7CPD-Art+%28PD-old-100-1923%29%7CPD-Art+%28PD-old-70-1923%29%7CLibrary+of+Congress-no+known+copyright+restrictions%7Cpublic+domain%22&title=Special%3ASearch&go=Go) - Millions of PD media (images, videos, sounds, ...).
 
 ## Licenses
 
 - [CC0 1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/) - Full text and explanation of CC0 at Choose a License.
 - [Unlicense](http://unlicense.org/) - Template for disclaiming copyright monopoly interest in software you have written.
-- [WTFPL](http://www.wtfpl.net/) - PD-equivalent license.
+- [WTFPL](http://www.wtfpl.net/) - PD-equivalent license (not actually public domain).
 
 ## Organizations
 
