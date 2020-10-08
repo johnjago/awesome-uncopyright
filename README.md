@@ -96,7 +96,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Foodiesfeed](https://www.foodiesfeed.com/license/) - A place to upload and find images of food without any copyright restriction.
 - [Internet Archive: PD search](https://archive.org/search.php?query=possible-copyright-status%3A%28NOT_IN_COPYRIGHT%29%20OR%20licenseurl%3A%28%22http%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2F1.0%2F%22%29%20OR%20licenseurl%3A%28%22https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F%22%29) - A huge amount of PD works.
 - [LibreStock](http://librestock.com/) - Search all public domain stock photo websites at once.
-- [MyStockPhotos](https://mystock.themeisle.com/license/) - A collection of images dedicated to the public domain trough CC0.
+- [MyStockPhotos](https://mystock.themeisle.com/license/) - A collection of images dedicated to the public domain through CC0.
 - [NegativeSpace](https://negativespace.co/license/) - A repository of CC0 images.
 - [Openclipart](https://openclipart.org/share) - High quality, easy to use clip art.
 - Old images on [Pixabay](https://web.archive.org/web/20190108204845/https://pixabay.com/en/service/terms/) - **New images on Pixabay are [not in the public domain](https://opengameart.org/forumtopic/warning-pixabay-has-changed-the-license-not-compatible-with-cc-or-gpl-anymore)**, as they are released under the [Pixabay License](https://pixabay.com/service/license/) (among other things, [incompatible with the GPL](https://make.wordpress.org/themes/2019/01/13/pixabay-images-are-not-allowed/)). Pixabay switched to the new license [in 2019](https://pixabay.com/forum/official-pixabay-news-2/the-pixabay-license-7823/). Prior to that change, Pixabay used the [CC0 waiver](https://web.archive.org/web/20190108204845/https://pixabay.com/en/service/terms/). Therefore, old images are [still in the public domain](https://pixabay.com/it/forum/official-pixabay-news-2/the-pixabay-license-7823/?pagi=4), despite being [misleadingly tagged](https://pixabay.com/it/forum/official-pixabay-news-2/the-pixabay-license-7823/?pagi=4) with the Pixabay License. Before using an image, check what the state of the [terms of service](https://pixabay.com/service/) was at that point in time.
@@ -144,7 +144,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Luapower](https://luapower.com/) - Deploying and sharing Lua modules with a unique philosophy.
 - [single_file_libs](https://github.com/nothings/single_file_libs) - Many small PD libraries for programmers to use.
 - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
-- [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - List of PD software at Wikipedia.
+- [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - List of PD software on Wikipedia.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
 
 ## Talks
