@@ -41,6 +41,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [PublicDomainFlix](http://publicdomainflix.com/index.html) - Watch public domain movies online.
 - [RKHive](http://rkhive.com/legal.html) - CC0 sound fonts for music synthesis and MIDI playback.
 - [Samuel Killermann](https://www.samuelkillermann.com/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
+- [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models.
 
 ## Articles
 
