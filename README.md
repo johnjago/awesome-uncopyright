@@ -39,7 +39,6 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Martin Vorel](https://libreshot.com/) - Photographer releasing his very high quality photos under CC0.
 - [Opengameart: CC0 search](https://opengameart.org/art-search-advanced?keys=&title=&field_art_tags_tid_op=or&field_art_tags_tid=&name=&field_art_type_tid%5B%5D=9&field_art_type_tid%5B%5D=10&field_art_type_tid%5B%5D=7273&field_art_type_tid%5B%5D=14&field_art_type_tid%5B%5D=12&field_art_type_tid%5B%5D=13&field_art_type_tid%5B%5D=11&field_art_licenses_tid%5B%5D=4&sort_by=count&sort_order=DESC&items_per_page=24&Collection=) - Huge number of CC0 game art.
 - [PublicDomainFlix](http://publicdomainflix.com/index.html) - Watch public domain movies online.
-- [RKHive](http://rkhive.com/legal.html) - CC0 sound fonts for music synthesis and MIDI playback.
 - [Samuel Killermann](https://www.samuelkillermann.com/) - Multi-disciplinary artist who puts his gifts to work to achieve global justice.
 - [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models.
 
