@@ -133,6 +133,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) - About the CC0 public domain dedication.
 - [Kopimi](http://kopimi.com/) - Symbol showing that you want a work to be copied.
 - [Lively Days](http://livelydays.com/) - Vegan recipes.
+- [RightsAtlas Class of 1931 Dataset](https://bitgitty.github.io/rightsatlas/entering-public-domain-2027/) - CC0 dataset of the films entering the US public domain on January 1, 2027, with notes on the music, trademark and restoration rights that can still apply.
 - [The Safe Zone Project](https://thesafezoneproject.com/help/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.
 - [Uncopyright: All Rights Released](http://uncopyright.org/) - Hub for the uncopyright movement, with lists of works, questions, answers, and other information.
 
