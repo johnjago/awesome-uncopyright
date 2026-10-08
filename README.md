@@ -146,6 +146,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
 - [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - List of PD software on Wikipedia.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.
+- [Just](https://just.systems) - Command runner for developer work.
 
 ## Talks
 
