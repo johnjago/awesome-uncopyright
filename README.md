@@ -82,6 +82,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [LibriVox](https://librivox.org/) - Audiobooks read by volunteers.
 - [Project Gutenberg](https://www.gutenberg.org/) - Thousands of ebooks mostly in the public domain, in a variety of formats.
 - [Standard Ebooks](https://standardebooks.org/) - Hundreds of classics, beautifully formatted and typeset.
+- [Tower of Babel](https://antarctic-labs.com/tower-of-babel) - Free library of over 2.5 million public-domain texts - books, papers, law, and declassified documents - with full text and metadata.
 - [Wikisource: PD search](https://en.wikisource.org/w/index.php?search=incategory%3A%22cc-zero%7CPD-old%7CPD-old-70-1923%E2%80%8E%22&title=Special%3ASearch&profile=advanced&fulltext=1&advancedSearch-current=%7B%22namespaces%22%3A%5B100%2C102%2C106%2C114%2C0%5D%7D&ns100=1&ns102=1&ns106=1&ns114=1&ns0=1) - Thousands of PD books and texts.
 
 ## Essays
